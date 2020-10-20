@@ -1,0 +1,62 @@
+A test plan!
+A test plan is a document that outlines the planning for test process. It contains guidelines for the testing process such as approach, testing tasks, environment needs, resource requirements, schedule and constraints
+
+It describes the scope of software testing, testing techniques to be used, resources required for testing and the schedule of intended test activities. The scope helps in identifying test items and the features to be tested. A test plan also contain details of who will perform a given task.
+
+Test Plan Types
+One can have the following types of test plans:
+
+Master Test Plan: A single high-level test plan for a project/product that unifies all other test plans.
+Testing Level Specific Test Plans:Plans for each level of testing.
+Unit Test Plan
+Integration Test Plan
+System Test Plan
+Acceptance Test Plan
+Testing Type Specific Test Plans: Plans for major types of testing like Performance Test Plan and Security Test Plan.
+Test Plan Template,,,,,,,,,,,,,,,,,
+----------------------------------------------
+What is Test case?
+
+A TEST CASE is a documented set of preconditions (prerequisites), procedures (inputs / actions) and postconditions (expected results) which a tester uses to determine whether a system under test satisfies requirements or works correctly. A test case can have one or multiple test scripts and a collection of test cases is called a test suite.
+
+Typical Test Case Parameters:
+Test Case ID
+
+Test Scenario
+
+Test Case Description
+
+Test Steps
+
+Prerequisite
+
+Test Data
+
+Expected Result
+
+Test Parameters
+
+Actual Result
+
+Environment Information
+
+Comments
+
+--------------------------------------
+Test Script
+A TEST SCRIPT is a set of instructions that is performed on a system under test to verify that the system performs as expected. They can be written in either a human language (used for manual testing) or a scripting / programming language (used for automated testing).
+
+------------------------------------------
+What is a Test Scenario?
+A Test Scenario is defined as any functionality that can be tested. It is a collective set of test cases which helps the testing team to determine the positive and negative characteristics of the project.
+
+Test Scenario gives a high-level idea of what we need to test.
+--------------------
+What is a Test Strategy?
+A TEST STRATEGY is a plan for defining the approach to the Software Testing Life Cycle (STLC). It guides the QA team to define Test coverage and testing scope. It also aids testers to get a clear picture of the project at any instance. The possibility of missing any test activity is very low when there is a proper test strategy in place.
+----------------------------------
+Test Coverage and Code Coverage
+
+Code Coverage really talks about unit testing practices that have to target all areas of the code at least once and is done by developers.
+
+Test Coverage, on the other hand, is testing every requirement at least once and is obviously a QA team activity.

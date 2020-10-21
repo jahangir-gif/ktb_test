@@ -1,4 +1,4 @@
-A test plan!
+A test plan!  <<<<<<<<<<<<<ktb test for testing >>>>>>>>>>>>>>>>>>>>>
 A test plan is a document that outlines the planning for test process. It contains guidelines for the testing process such as approach, testing tasks, environment needs, resource requirements, schedule and constraints
 
 It describes the scope of software testing, testing techniques to be used, resources required for testing and the schedule of intended test activities. The scope helps in identifying test items and the features to be tested. A test plan also contain details of who will perform a given task.
